@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{05448CF9-31D1-4887-BD0D-FD26DC4035CD}|Default">
+  <MonoDevelop.Ide.ItemProperties.lovelive PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE359917-43E9-4DBB-A466-644DDD948411" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.lovelive>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="lovelive/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

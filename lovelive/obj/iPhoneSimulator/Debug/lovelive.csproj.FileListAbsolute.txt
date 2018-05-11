@@ -1,0 +1,12 @@
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/bin/iPhoneSimulator/Debug/lovelive.exe
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/bin/iPhoneSimulator/Debug/lovelive.pdb
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/actool/_PartialAppManifest.items
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/actool/_BundleResourceWithLogicalName.items
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/coremlc/_PartialAppManifest.items
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.2/optimized/
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/lovelive.csprojResolveAssemblyReference.cache
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/lovelive.csproj.CoreCompileInputs.cache
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/lovelive.exe
+/Users/s20151104679/Desktop/今年的/lovelive/lovelive/obj/iPhoneSimulator/Debug/lovelive.pdb
